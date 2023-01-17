@@ -10,3 +10,4 @@ Gambar ke 3 diatas ini harap dilakukan setelah mengekstrak file MY SQL CONNECTOR
 ![image](https://user-images.githubusercontent.com/114543984/212811919-d69b2f74-64aa-4da5-a948-3a482ceaef06.png)
 Next terus sampai tombol finish nyala 
 setelah itu open File MY Library / Perpustakaan lalu silahkan run atau edit 
+Jangan Lupa buat terlebih dahulu Database di PHP MY ADMIN 
